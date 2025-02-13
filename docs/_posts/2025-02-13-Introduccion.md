@@ -9,29 +9,30 @@ tags:
 
 ## ¡Hola!
 
-Soy Sergio Robledo, estudiante de Ingeniería Robótica Software de la universidad Rey Juan Carlos de Madrid.
+Soy Carlos Escarcena, estudiante de Ingeniería Robótica Software de la universidad Rey Juan Carlos de Madrid.
 
-Estos blogs van a representar distintas partes que componen el trabajo final, así como diversas explicaciones teóricas, procesos de instalación de ciertos paquetes y códigos explicados.
+En este blog se explicara todo lo referente a mi trabajo de fin de grado, tanto materiales y componentes utilizados, como plataformas utilizadas y explicaciones detallas del codigo de funcionanmiento. 
 
 ## Explicación del proyecto
 
-El proyecto que se va a realizar consistirá en la navegación autónoma a lo largo de una pista de carreras con un robot [*AWS DeepRacer*](https://aws.amazon.com/es/deepracer/).
+El proyecto suerge bajo la escased de produciom de los coches [*DeepRacer*](https://aws.amazon.com/es/deepracer/)., ya que estos estan en desuso y es muy dificil de hacer con uno. Y en caso de consegirlo los precios son desorvitados. Por ello surgio la necesida de crear uno propio, mas economico y eficiente banadome en el [*DeepRacer*](https://aws.amazon.com/es/deepracer/) original. 
 
-Para lograr que este robot recorra una pista nunca antes vista, en el menor tiempo posible, se empleará una técnica de aprendizaje automático conocida como *Aprendizaje por Imitación* ( en inglés *Imitation Learning*). En ella, un agente aprende a realizar una tarea observando y replicando el comportamiento de un experto humano.
+Este será mas potenete y eficiente ya que su hardware estara majorado respecto a la version original, será probablemente mas economico y lo mas importante, será replicable para cualquier persona que quiera recrearlo y porsupesto de codigo abierto.
+
 
 ## Proyecto paso a paso
 
 El proyecto contará con una serie de fases:
 
-1. Instalación del simulador [*CARLA*](https://carla.org/) así como la creación de los mapas e implementación del modelo del robot.
+1. Seleccion y obtencion de los materiales.
 
-2. Recopilación de datos en simulación.
+2. Primer prototipo y montaje de piezas.
 
-3. Comprobación de efectividad en simulación.
+3. Instalacion y configuracion de software y driveres.
 
-4. Entrenamiento en robot real y combinación de datos.
+4. Test basico de funcionamiento.
 
-5. Comprobación de efectividad en escenario real y pruebas de robustez para la precisión del modelo.
+5. Comparativa en el circuito con respecto a el  [*DeepRacer*](https://aws.amazon.com/es/deepracer/) original.
 
 --- 
 
