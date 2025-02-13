@@ -1,6 +1,6 @@
 ---
 title: "Introducción"
-last_modified_at: 2025-01-02T18:02:00
+last_modified_at: 2025-02-13T18:02:00
 categories:
   - Blog
 tags:
@@ -37,9 +37,7 @@ El proyecto contará con una serie de fases:
 --- 
 
 <figure class="align-center" style="max-width: 100%">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/intro_images/carla.jpeg" alt="Simulador Carla">
+  <img src="{{ site.url }}{{ site.baseurl }}/asserts/images/DeepRacer.png" alt="AWS DeepRacer">
 </figure>
 
-<figure class="align-center" style="max-width: 100%">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/intro_images/deepracer.jpg" alt="AWS DeepRacer">
-</figure>
+
