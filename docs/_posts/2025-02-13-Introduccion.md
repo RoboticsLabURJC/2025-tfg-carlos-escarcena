@@ -9,35 +9,28 @@ tags:
 
 ## ¡Hola!
 
-Soy Carlos Escarcena, estudiante de Ingeniería Robótica Software de la universidad Rey Juan Carlos de Madrid.
+Soy Carlos Escarcena, estudiante de Ingeniería Robótica Software en la Universidad Rey Juan Carlos de Madrid.
 
-En este blog se explicara todo lo referente a mi trabajo de fin de grado, tanto materiales y componentes utilizados, como plataformas utilizadas y explicaciones detallas del codigo de funcionanmiento. 
+En este blog se explicará todo lo referente a mi trabajo de fin de grado: los materiales y componentes utilizados, las plataformas empleadas y explicaciones detalladas del código de funcionamiento.  
 
 ## Explicación del proyecto
 
-El proyecto suerge bajo la escased de produciom de los coches [*DeepRacer*](https://aws.amazon.com/es/deepracer/)., ya que estos estan en desuso y es muy dificil de hacer con uno. Y en caso de consegirlo los precios son desorvitados. Por ello surgio la necesida de crear uno propio, mas economico y eficiente banadome en el [*DeepRacer*](https://aws.amazon.com/es/deepracer/) original. 
+El proyecto surge debido a la escasez de producción de los coches [*DeepRacer*](https://aws.amazon.com/es/deepracer/), ya que estos están en desuso y es muy difícil hacerse con uno. En caso de conseguirlo, los precios son desorbitados. Por ello, surgió la necesidad de crear uno propio, más económico y eficiente, basándome en el [*DeepRacer*](https://aws.amazon.com/es/deepracer/) original.  
 
-Este será mas potenete y eficiente ya que su hardware estara majorado respecto a la version original, será probablemente mas economico y lo mas importante, será replicable para cualquier persona que quiera recrearlo y porsupesto de codigo abierto.
-
+Este será más potente y eficiente, ya que su hardware estará mejorado respecto a la versión original. Probablemente será más económico y, lo más importante, será replicable para cualquier persona que quiera recrearlo y, por supuesto, de código abierto.  
 
 ## Proyecto paso a paso
 
 El proyecto contará con una serie de fases:
 
-1. Seleccion y obtencion de los materiales.
+1. Selección y obtención de los materiales.  
+2. Primer prototipo y montaje de piezas.  
+3. Instalación y configuración de software y drivers.  
+4. Test básico de funcionamiento.  
+5. Comparativa en el circuito con respecto al [*DeepRacer*](https://aws.amazon.com/es/deepracer/) original.  
 
-2. Primer prototipo y montaje de piezas.
-
-3. Instalacion y configuracion de software y driveres.
-
-4. Test basico de funcionamiento.
-
-5. Comparativa en el circuito con respecto a el  [*DeepRacer*](https://aws.amazon.com/es/deepracer/) original.
-
---- 
+---
 
 <figure class="align-center" style="max-width: 100%">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DeepRacer.png" alt="AWS DeepRacer">
 </figure>
-
-
