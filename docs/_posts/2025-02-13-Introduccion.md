@@ -37,7 +37,7 @@ El proyecto contará con una serie de fases:
 --- 
 
 <figure class="align-center" style="max-width: 100%">
-  <img src="{{ site.url }}{{ site.baseurl }}/asserts/images/DeepRacer.png" alt="AWS DeepRacer">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/DeepRacer.png" alt="AWS DeepRacer">
 </figure>
 
 
